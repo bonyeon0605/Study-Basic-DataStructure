@@ -1,6 +1,5 @@
 package ch06;
 
-import goorm.StackTest;
 
 import java.util.Scanner;
 
